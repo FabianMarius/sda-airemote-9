@@ -1,0 +1,6 @@
+1. Instalare Docker Desktop: https://www.docker.com/products/docker-desktop/
+2. Dupa instalare, dati in cmd comanda "wsl --update" daca vi se cere
+
+
+
+https://realpython.com/if-name-main-python/
